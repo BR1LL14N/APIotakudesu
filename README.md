@@ -10,7 +10,7 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kaede-No-Ki/otakudesu-rest-api">
 </p>
 
-**Unofficial API of** : https://otakudesu.org/
+**Unofficial API of** : https://otakudesu.best/
 
 ## TODO
 - [x] Home
@@ -35,7 +35,7 @@
 ## Usage
 1. Clone this repository
 ```bash
-git clone https://github.com/Kaede-No-Ki/otakudesu-rest-api.git
+git clone https://github.com/BR1LL14N/APIotakudesu.git
 ```
 2. Install packages (use `yarn` or `npm`)
 ```bash
@@ -74,9 +74,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://github.com/Kaede-No-Ki/otakudesu-rest-api/blob/master/LICENSE)
+[MIT](https://github.com/BR1LL14N/APIotakudesu/blob/main/LICENSE)
 
-contoh untuk akses pengguaan API nya 
+contoh untuk akses pengguaan API nya, ID dalam setiap response sangat penting untuk menentukan endpijnt mana yang ingin diakses
 
 download batch:
 http://localhost:3000/api/batch/bgf-batch-sub-indo
@@ -86,3 +86,4 @@ http://localhost:3000/api/eps/bgf-episode-11-sub-indo
 
 ambil id anime nya
 http://localhost:3000/api/anime/busamen-gachi-fighter-sub-indo
+
