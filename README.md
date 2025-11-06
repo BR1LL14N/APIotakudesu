@@ -51,8 +51,7 @@ npm run dev (you have to install nodemon on your computer)
 ```
 
 ## API Documentation
-__Api Path__ : https://otakudesu-api.herokuapp.com/api/</br>
-__API Version__ : v1
+__API Version__ : v1.2
 
 | Endpoint | Params | Description |
 | -------- | ------ | -----------|
