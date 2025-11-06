@@ -1,14 +1,4 @@
 # OtakuDesu API
-<p align="center">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Kaede-No-Ki/otakudesu-rest-api">
-<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Kaede-No-Ki/otakudesu-rest-api">
-<img alt="GitHub" src="https://img.shields.io/github/license/Kaede-No-Ki/otakudesu-rest-api"> 
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/Kaede-No-Ki/otakudesu-rest-api">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Kaede-No-Ki/otakudesu-rest-api">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Kaede-No-Ki/otakudesu-rest-api">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kaede-No-Ki/otakudesu-rest-api">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Kaede-No-Ki/otakudesu-rest-api">
-</p>
 
 **Unofficial API of** : https://otakudesu.best/
 
