@@ -76,7 +76,7 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://github.com/BR1LL14N/APIotakudesu/blob/main/LICENSE)
 
-contoh untuk akses pengguaan API nya, ID dalam setiap response sangat penting untuk menentukan endpijnt mana yang ingin diakses
+contoh untuk akses pengguaan API nya, ID dalam setiap response sangat penting untuk menentukan endpoint mana yang ingin diakses
 
 download batch:
 http://localhost:3000/api/batch/bgf-batch-sub-indo
